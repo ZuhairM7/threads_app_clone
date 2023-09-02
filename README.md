@@ -2,11 +2,27 @@
 
 Create beautiful layouts with TailwindCSS for a full-stack Threads App using React, Next.js, TypeScript, and MongoDB.
 
+## Key Features
+
+- **Authentication**: Integrated Clerk for secure user authentication.
+- **Data Validation**: Utilized Zod for robust data validation.
+- **File Uploads**: Handled file uploads seamlessly with UploadThing.
+- **Components**: Explored and leveraged components from Shadcn.
+- **Real-time Events**: Listened to real-time events using webhooks.
+- **Middleware & API Actions**: Implemented middleware, API actions, and authorization.
+- **Layout Route Groups**: Explored and integrated new Next.js layout route groups.
+- **Form Management**: Managed forms efficiently with React Hook Form.
+- **Reusable Components**: Created reusable components to streamline development.
+- **Application Architecture**: Built a solid and scalable application architecture.
+- **Deployment**: Prepared the application for deployment and more!
+
 ## Overview
 
 This project is a clone of the popular Threads App (inspired by META's Twitter), featuring the following functionalities:
+## Home 
+![Alt Text](threads_onboarding.png)
 
-- Create threads
+## - Create threads
 - Reply/comment to threads
 - View activity
 - Search users
@@ -21,19 +37,6 @@ This project is a clone of the popular Threads App (inspired by META's Twitter),
 - **Frontend**: React, Next.js 13, TypeScript, TailwindCSS
 - **Backend**: MongoDB with Mongoose ODM
 
-## Key Features
-
-- **Authentication**: Integrated Clerk for secure user authentication.
-- **Data Validation**: Utilized Zod for robust data validation.
-- **File Uploads**: Handled file uploads seamlessly with UploadThing.
-- **Components**: Explored and leveraged components from Shadcn.
-- **Real-time Events**: Listened to real-time events using webhooks.
-- **Middleware & API Actions**: Implemented middleware, API actions, and authorization.
-- **Layout Route Groups**: Explored and integrated new Next.js layout route groups.
-- **Form Management**: Managed forms efficiently with React Hook Form.
-- **Reusable Components**: Created reusable components to streamline development.
-- **Application Architecture**: Built a solid and scalable application architecture.
-- **Deployment**: Prepared the application for deployment and more!
 
 ## Getting Started
 
