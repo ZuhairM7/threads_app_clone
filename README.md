@@ -23,14 +23,15 @@ This project is a clone of the popular Threads App (inspired by META's Twitter),
 ![Alt Text](threads_onboarding.png)
 
 ## - Create threads
-- Reply/comment to threads
-- View activity
-- Search users
-- Create communities
-- Invite users to communities
-- Search communities
-- Post threads from communities
-- User / Community profiles
+![Alt Text](threads_createThread.png)
+## - Activity -> Reply/comment to threads
+![Alt Text](threads_activity.png)
+## - Search users and communities
+![Alt Text](threads_search.png)
+## - Create communities and invite Users
+- ![Alt Text](threads_communities.png)
+## - User / Community profiles
+![Alt Text](threads_profile.png)
 
 ## Tech Stack
 
