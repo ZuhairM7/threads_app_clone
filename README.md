@@ -1,10 +1,10 @@
-### Full Stack Next.js 13 Threads App
+# Full Stack Next.js 13 Threads App
 
 Create beautiful layouts with TailwindCSS for a full-stack Threads App using React, Next.js, TypeScript, and MongoDB.
 
-## Overview
+# Overview
 
-# Key Features
+## Key Features
 
 - **Authentication**: Integrated Clerk for secure user authentication.
 - **Data Validation**: Utilized Zod for robust data validation.
