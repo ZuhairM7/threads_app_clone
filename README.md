@@ -2,7 +2,7 @@
 
 Create beautiful layouts with TailwindCSS for a full-stack Threads App using React, Next.js, TypeScript, and MongoDB.
 
-# Overview
+## Overview
 
 ## Key Features
 
@@ -18,6 +18,7 @@ Create beautiful layouts with TailwindCSS for a full-stack Threads App using Rea
 - **Application Architecture**: Built a solid and scalable application architecture.
 - **Deployment**: Prepared the application for deployment and more!
 This project is a clone of the popular Threads App (inspired by META's Twitter), featuring the following functionalities:
+
 ## Home 
 ![Alt Text](threads_onboarding.png)
 
