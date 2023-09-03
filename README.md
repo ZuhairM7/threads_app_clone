@@ -2,7 +2,9 @@
 
 Create beautiful layouts with TailwindCSS for a full-stack Threads App using React, Next.js, TypeScript, and MongoDB.
 
-## Key Features
+## Overview
+
+# Key Features
 
 - **Authentication**: Integrated Clerk for secure user authentication.
 - **Data Validation**: Utilized Zod for robust data validation.
@@ -15,9 +17,6 @@ Create beautiful layouts with TailwindCSS for a full-stack Threads App using Rea
 - **Reusable Components**: Created reusable components to streamline development.
 - **Application Architecture**: Built a solid and scalable application architecture.
 - **Deployment**: Prepared the application for deployment and more!
-
-## Overview
-
 This project is a clone of the popular Threads App (inspired by META's Twitter), featuring the following functionalities:
 ## Home 
 ![Alt Text](threads_onboarding.png)
